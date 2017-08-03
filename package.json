@@ -1,0 +1,13 @@
+{
+  "name": "react-addons",
+  "version": "15.0.0",
+  "description": "Type definitions for React.addons module from the UMD package of React.",
+  "main": "",
+  "scripts": {},
+  "author": "Laszlo Pandy <laszlo.pandy@prezi.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/prezi/react-addons.git"
+  }
+}
