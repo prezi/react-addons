@@ -1,5 +1,5 @@
 {
-  "name": "react-addons",
+  "name": "@types/react-addons",
   "version": "15.0.0",
   "description": "Type definitions for React.addons module from the UMD package of React.",
   "main": "",
